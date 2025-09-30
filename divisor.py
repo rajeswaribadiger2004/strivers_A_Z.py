@@ -19,3 +19,4 @@ if __name__ == "__main__":
     sol = Solution()
     number = 12
     print("Divisors of", number, "are:", sol.findDivisors(number))
+
