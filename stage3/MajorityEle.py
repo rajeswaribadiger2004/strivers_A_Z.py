@@ -8,4 +8,4 @@ class Solution:
         return num
 
     return -1
-    
+    #o(nlogn)+o(n)
