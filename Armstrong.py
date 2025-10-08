@@ -12,3 +12,4 @@ class Solution:
     
 s = Solution()
 print(s.armstrong(153))
+#o(n)
