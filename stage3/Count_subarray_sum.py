@@ -21,7 +21,7 @@ class Solution:
           mpp[preSum] += 1
 
       return cnt
-
+#o(n) o(logn)
 
 
 
