@@ -30,7 +30,7 @@ def printLinkedList(head):
     print()
 
 
-# Example usage
+
 if __name__ == "__main__":
     # Create linked list: 1 -> 3 -> 2 -> 4
     head = Node(1)
